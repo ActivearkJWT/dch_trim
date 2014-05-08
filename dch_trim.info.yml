@@ -1,0 +1,6 @@
+name: 'DCH Trim'
+type: module
+description: 'A custom twig filter to trim a string to a given number of words'
+package: 'Drupal camp Helsinki'
+core: 8.x
+version: 1.0

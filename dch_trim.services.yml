@@ -1,0 +1,5 @@
+services:
+  dch_trim.twig.trim_extension:
+    class: Drupal\dch_trim\TwigExtension\TrimExtension
+    tags:
+      - { name: twig.extension }
